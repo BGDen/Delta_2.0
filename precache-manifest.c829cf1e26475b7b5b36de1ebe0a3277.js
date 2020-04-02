@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1bebc7ce780e529ae393febe39a505b1",
+    "revision": "6466b73c27705c0c12ca3e2c9e4bfd67",
     "url": "/Delta_2.0/index.html"
   },
   {
-    "revision": "66855572315d24f17b22",
+    "revision": "76e75afdace7a20ce448",
     "url": "/Delta_2.0/static/css/main.f052432d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Delta_2.0/static/js/2.1e00dd89.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66855572315d24f17b22",
-    "url": "/Delta_2.0/static/js/main.87c8d15d.chunk.js"
+    "revision": "76e75afdace7a20ce448",
+    "url": "/Delta_2.0/static/js/main.eefc24a4.chunk.js"
   },
   {
     "revision": "a20ed246d3242963828f",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Delta_2.0/static/css/main.f052432d.chunk.css",
-    "main.js": "/Delta_2.0/static/js/main.87c8d15d.chunk.js",
-    "main.js.map": "/Delta_2.0/static/js/main.87c8d15d.chunk.js.map",
+    "main.js": "/Delta_2.0/static/js/main.eefc24a4.chunk.js",
+    "main.js.map": "/Delta_2.0/static/js/main.eefc24a4.chunk.js.map",
     "runtime-main.js": "/Delta_2.0/static/js/runtime-main.7caa3e11.js",
     "runtime-main.js.map": "/Delta_2.0/static/js/runtime-main.7caa3e11.js.map",
     "static/js/2.1e00dd89.chunk.js": "/Delta_2.0/static/js/2.1e00dd89.chunk.js",
     "static/js/2.1e00dd89.chunk.js.map": "/Delta_2.0/static/js/2.1e00dd89.chunk.js.map",
     "index.html": "/Delta_2.0/index.html",
-    "precache-manifest.129d25d06259a73de944fe251677e252.js": "/Delta_2.0/precache-manifest.129d25d06259a73de944fe251677e252.js",
+    "precache-manifest.c829cf1e26475b7b5b36de1ebe0a3277.js": "/Delta_2.0/precache-manifest.c829cf1e26475b7b5b36de1ebe0a3277.js",
     "service-worker.js": "/Delta_2.0/service-worker.js",
     "static/css/main.f052432d.chunk.css.map": "/Delta_2.0/static/css/main.f052432d.chunk.css.map",
     "static/js/2.1e00dd89.chunk.js.LICENSE.txt": "/Delta_2.0/static/js/2.1e00dd89.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7caa3e11.js",
     "static/js/2.1e00dd89.chunk.js",
     "static/css/main.f052432d.chunk.css",
-    "static/js/main.87c8d15d.chunk.js"
+    "static/js/main.eefc24a4.chunk.js"
   ]
 }
