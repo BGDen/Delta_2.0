@@ -5,7 +5,7 @@ export function Navigation (props){
   return(
     <nav className="navbar navbar-light bg-light">
       
-      <a className="navbar-brand" href="#">Delta 2.2</a>
+      <a className="navbar-brand" href="#">Delta 2.3</a>
 
       <div className="form-inline my-2 my-lg-0">
         <input className="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" />
